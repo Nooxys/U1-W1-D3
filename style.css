@@ -1,0 +1,41 @@
+body {
+  font-size: 0.9rem;
+}
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.ricette {
+  text-align: center;
+}
+#thanksgiving {
+  font-weight: bold;
+  color: #1e6b4b;
+  text-align: center;
+  border-top: 1px solid yellow;
+  background-color: #f7f3e3;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+#thanksgiving span {
+  font-weight: 900;
+}
+main {
+  margin-left: 32vw;
+  margin-right: 32vw;
+}
+.focaccia {
+  text-align: center;
+}
+.focaccia p {
+  text-align: left;
+}
+#dough {
+  font-weight: bold;
+}
+
+#featured {
+  color: red;
+}
